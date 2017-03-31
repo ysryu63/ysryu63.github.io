@@ -1,0 +1,13 @@
+.title {
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 30px;
+}
+
+.img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+}
